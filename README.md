@@ -128,13 +128,6 @@ Layers are categorized into **low**, **medium**, and **high** operation groups b
 
 If you use this work, please cite:
 
-```bibtex
-@inproceedings{li2025unstructured,
-  title={Optimizing Deployment of Unstructured Group Convolutions for Low Latency Inference},
-  author={Li, Changxin and Kuppannagari, Sanmukh},
-  booktitle={IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC)},
-  year={2025}
-}
 ```
 
 ---

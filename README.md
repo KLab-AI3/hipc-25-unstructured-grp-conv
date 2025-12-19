@@ -101,16 +101,15 @@ Layers are categorized into **low**, **medium**, and **high** operation groups b
 ```text
 .
 ├── figures/                  # 📈 Figures used in README
-│   ├── pipeline.png
 │   ├── shufflenet_layers.png
 │   └── condensenet_cf4.png
 │
-├── scheduling/               # Knapsack + ILP scheduler
-├── reordering/               # HC / IC / RCM implementations
-├── runtime/                  # SYCL-based SMM convolution
-├── benchmarks/               # Model benchmarks
-├── scripts/                  # Reproducibility scripts
-└── README.md                 # You are here
+├── Scheduling/               # Knapsack + ILP scheduler
+├── Reordering/               # HC / IC / RCM implementations
+├── Runtime/                  # SYCL-based SMM convolution
+├── Models/                   # Model benchmarks
+├── Scripts/                  # Reproducibility scripts
+└── README.md                 
 ```
 
 ---

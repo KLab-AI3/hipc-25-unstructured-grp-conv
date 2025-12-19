@@ -41,11 +41,17 @@ For each convolution layer:
 
 ### ShuffleNet (Layer-wise)
 
-![ShuffleNet Performance](figures/shufflenet_layers.png)
+<p align="center">
+  <img src="figures/shufflenet_layers.png" alt="ShuffleNet Performance" width="600">
+</p>
+
 
 ### CondenseNet (CF = 4)
 
-![CondenseNet CF4 Performance](figures/condensenet_cf4.png)
+<p align="center">
+  <img src="figures/condensenet_cf4.png" alt="CondenseNet CF4 Performance" width="500">
+</p>
+
 
 ---
 
